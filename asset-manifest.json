@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.e61d6e57.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.605ee1ec.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.605ee1ec.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.04d62b36.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.04d62b36.js.map",
+    "static/js/2.eb00aa43.chunk.js": "/pixel-perfect/static/js/2.eb00aa43.chunk.js",
+    "static/js/2.eb00aa43.chunk.js.map": "/pixel-perfect/static/js/2.eb00aa43.chunk.js.map",
+    "index.html": "/pixel-perfect/index.html",
+    "static/css/main.e61d6e57.chunk.css.map": "/pixel-perfect/static/css/main.e61d6e57.chunk.css.map",
+    "static/js/2.eb00aa43.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.eb00aa43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d62b36.js",
+    "static/js/2.eb00aa43.chunk.js",
+    "static/css/main.e61d6e57.chunk.css",
+    "static/js/main.605ee1ec.chunk.js"
+  ]
+}
