@@ -3,6 +3,7 @@ import { Hero } from "../cmps/Hero"
 import { USPs } from "../cmps/USPs"
 import { Testimonials } from "../cmps/Testimonials"
 import { GetStarted } from "../cmps/GetStarted"
+import {PageFooter} from "../cmps/PageFooter"
 
 export function Home () {
 
@@ -12,6 +13,7 @@ export function Home () {
          <USPs/>
          <Testimonials/>
          <GetStarted/>
+         <PageFooter/>
         </section>    
     );
 }
