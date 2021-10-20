@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {RootCmp} from './RootCmp';
-import './assets/css/main.scss';
+import './assets/styles/main.scss';
 
 ReactDOM.render(
   <React.StrictMode>

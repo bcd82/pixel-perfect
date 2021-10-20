@@ -1,0 +1,41 @@
+.usps {
+  height: 745px;
+  background: $bgDark;
+  font-family: Livvic-SemiBold;
+
+  .content {
+    margin-top: 140px;
+    color: white;
+    height: 400px;
+    gap:100px;
+    padding-top:65px;
+
+    h2 {
+      font-family: Livvic-Bold;
+      font-size: rem(48px);
+      width: 40%;
+    }
+    .usp-list {
+      width: 50%;
+      gap:35px;
+      .usp-box {
+          gap:20px;
+          .icon { 
+              width:72px;
+              height:72px;
+          }
+          h4 { 
+              color:$pink;
+              font-family: Livvic-Bold;
+              font-size:rem(18px);
+              margin-bottom:25px;
+
+          }
+          p { 
+              font-family: Livvic-SemiBold;
+              font-size:rem(15px);
+          }
+      }
+    }
+  }
+}

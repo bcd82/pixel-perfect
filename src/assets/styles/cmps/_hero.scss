@@ -1,0 +1,53 @@
+.hero {
+  width: 100%;
+  background: $bgLight;
+  height: 700px;
+  font-family: Livvic-SemiBold;
+  font-size: rem(18px);
+  overflow: hidden;
+  color: white;
+  position:relative;
+  .bottom-img {
+    position:absolute;
+    max-width:358px;
+    bottom:-230px;
+    right:0;
+  }
+  .hero-main {
+      margin-top:155px;
+      position:relative;
+    .side-img {
+      position:absolute;
+      left:-300px;
+      width:200px;
+      height:200px;
+    }
+    
+
+    .left {
+      width:50%;
+      margin-inline-end: 100px;
+      h1 {
+        font-family: Livvic-Bold;
+        font-size: rem(100px);
+        line-height: rem(100px);
+        span {
+          color: $pink;
+        }
+      }
+    }
+    .right {
+      width: 445px;
+      align-self: flex-end;
+      position:relative;
+      .top-line{
+        top:-88px;
+        left:0;
+        position:absolute;
+        width:50px;
+        height:4px;
+        background:#79C8C7;
+      }
+    }
+  }
+}

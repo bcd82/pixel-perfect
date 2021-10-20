@@ -1,0 +1,28 @@
+.nav { 
+    margin-top:70px;
+    height:rem(48px);
+    a.logo{ 
+       height:40px;
+       margin-inline-end: 80px;
+    }
+
+    a{
+        color:white;
+
+    }
+    nav { 
+        gap :40px;
+        flex-grow: 1;
+    }
+    .contact-btn {
+        justify-self: flex-end;
+        width:155px;
+        border: 2px solid #ffffff;
+        background-color:transparent;
+        border-radius:25px;
+        height:100%;
+        font-family: Livvic-SemiBold;
+        color:white;
+        font-size:rem(18px);
+    }
+}
