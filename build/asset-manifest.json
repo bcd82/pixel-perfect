@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/pixel-perfect/static/css/main.f094ab2d.chunk.css",
-    "main.js": "/pixel-perfect/static/js/main.022a05ab.chunk.js",
-    "main.js.map": "/pixel-perfect/static/js/main.022a05ab.chunk.js.map",
-    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.04d62b36.js",
-    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.04d62b36.js.map",
-    "static/js/2.da120734.chunk.js": "/pixel-perfect/static/js/2.da120734.chunk.js",
-    "static/js/2.da120734.chunk.js.map": "/pixel-perfect/static/js/2.da120734.chunk.js.map",
+    "main.css": "/pixel-perfect/static/css/main.5da669ea.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.213ab629.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.213ab629.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.7eac4ce1.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.7eac4ce1.js.map",
+    "static/js/2.2655244d.chunk.js": "/pixel-perfect/static/js/2.2655244d.chunk.js",
+    "static/js/2.2655244d.chunk.js.map": "/pixel-perfect/static/js/2.2655244d.chunk.js.map",
     "index.html": "/pixel-perfect/index.html",
-    "static/css/main.f094ab2d.chunk.css.map": "/pixel-perfect/static/css/main.f094ab2d.chunk.css.map",
-    "static/js/2.da120734.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.da120734.chunk.js.LICENSE.txt",
+    "static/css/main.5da669ea.chunk.css.map": "/pixel-perfect/static/css/main.5da669ea.chunk.css.map",
+    "static/js/2.2655244d.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.2655244d.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/pixel-perfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixel-perfect/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixel-perfect/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixel-perfect/static/media/avatar-kady.78fc482c.jpg",
     "static/media/bg-pattern-home-1.270440fb.svg": "/pixel-perfect/static/media/bg-pattern-home-1.270440fb.svg",
     "static/media/bg-pattern-home-2.889d5d8c.svg": "/pixel-perfect/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/bg-pattern-home-4-about-3.aacd4e03.svg": "/pixel-perfect/static/media/bg-pattern-home-4-about-3.aacd4e03.svg",
+    "static/media/bg-pattern-home-5.95a2a621.svg": "/pixel-perfect/static/media/bg-pattern-home-5.95a2a621.svg",
     "static/media/icon-chart.8de3d4d2.svg": "/pixel-perfect/static/media/icon-chart.8de3d4d2.svg",
     "static/media/icon-cog.c5d2403f.svg": "/pixel-perfect/static/media/icon-cog.c5d2403f.svg",
     "static/media/icon-person.0a313a85.svg": "/pixel-perfect/static/media/icon-person.0a313a85.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixel-perfect/static/media/icon-quotes.c5173921.svg",
     "static/media/logo.9e687f65.svg": "/pixel-perfect/static/media/logo.9e687f65.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04d62b36.js",
-    "static/js/2.da120734.chunk.js",
-    "static/css/main.f094ab2d.chunk.css",
-    "static/js/main.022a05ab.chunk.js"
+    "static/js/runtime-main.7eac4ce1.js",
+    "static/js/2.2655244d.chunk.js",
+    "static/css/main.5da669ea.chunk.css",
+    "static/js/main.213ab629.chunk.js"
   ]
 }

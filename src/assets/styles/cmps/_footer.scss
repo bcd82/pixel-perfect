@@ -1,5 +1,9 @@
 footer {
     display:flex;
     background-color: #002529;
-    height:196px;
+    height:fit-content;
+    @include for-normal-layout {
+        height:196px;
+
+    }
 }
