@@ -1,0 +1,31 @@
+.get-started { 
+    width:100%; 
+    justify-content:center;
+    align-items: center;
+    background-color:$pink;
+    margin:0;
+    padding:0;
+    height:200px;
+    position:relative;
+    .content {
+        height:48px;
+        h2 {
+            font-family:Livvic-Bold ;
+            font-size:rem(48px);
+            color:#012F34;
+            flex-grow:1;
+        }
+        button {
+                justify-self: flex-end;
+                width:155px;
+                border: 2px solid #012F34;
+                background-color:transparent;
+                border-radius:25px;
+                height:100%;
+                font-family: Livvic-SemiBold;
+                color:#012F34;
+                font-size:rem(18px);
+        }
+
+    }
+}

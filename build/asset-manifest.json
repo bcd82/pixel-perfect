@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/pixel-perfect/static/css/main.e61d6e57.chunk.css",
-    "main.js": "/pixel-perfect/static/js/main.605ee1ec.chunk.js",
-    "main.js.map": "/pixel-perfect/static/js/main.605ee1ec.chunk.js.map",
+    "main.css": "/pixel-perfect/static/css/main.f094ab2d.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.022a05ab.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.022a05ab.chunk.js.map",
     "runtime-main.js": "/pixel-perfect/static/js/runtime-main.04d62b36.js",
     "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.04d62b36.js.map",
-    "static/js/2.eb00aa43.chunk.js": "/pixel-perfect/static/js/2.eb00aa43.chunk.js",
-    "static/js/2.eb00aa43.chunk.js.map": "/pixel-perfect/static/js/2.eb00aa43.chunk.js.map",
+    "static/js/2.da120734.chunk.js": "/pixel-perfect/static/js/2.da120734.chunk.js",
+    "static/js/2.da120734.chunk.js.map": "/pixel-perfect/static/js/2.da120734.chunk.js.map",
     "index.html": "/pixel-perfect/index.html",
-    "static/css/main.e61d6e57.chunk.css.map": "/pixel-perfect/static/css/main.e61d6e57.chunk.css.map",
-    "static/js/2.eb00aa43.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.eb00aa43.chunk.js.LICENSE.txt"
+    "static/css/main.f094ab2d.chunk.css.map": "/pixel-perfect/static/css/main.f094ab2d.chunk.css.map",
+    "static/js/2.da120734.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.da120734.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/pixel-perfect/static/media/Livvic-SemiBold.f5f72371.ttf",
+    "static/media/bg-pattern-home-1.270440fb.svg": "/pixel-perfect/static/media/bg-pattern-home-1.270440fb.svg",
+    "static/media/bg-pattern-home-2.889d5d8c.svg": "/pixel-perfect/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixel-perfect/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/pixel-perfect/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-person.0a313a85.svg": "/pixel-perfect/static/media/icon-person.0a313a85.svg",
+    "static/media/logo.9e687f65.svg": "/pixel-perfect/static/media/logo.9e687f65.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.04d62b36.js",
-    "static/js/2.eb00aa43.chunk.js",
-    "static/css/main.e61d6e57.chunk.css",
-    "static/js/main.605ee1ec.chunk.js"
+    "static/js/2.da120734.chunk.js",
+    "static/css/main.f094ab2d.chunk.css",
+    "static/js/main.022a05ab.chunk.js"
   ]
 }

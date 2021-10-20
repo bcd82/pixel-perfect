@@ -26,8 +26,8 @@ export function USPs() {
       <div className="main-layout content flex">
         <h2>Build & manage distributed teams like no one else.</h2>
         <div className="usp-list flex column">
-          {uspBoxData.map((data) => (
-            <article className="usp-box flex">
+          {uspBoxData.map((data,idx) => (
+            <article className="usp-box flex" key={idx}>
               <img src={data.icon} className="icon"/>
               <div className="usp-text flex column">
                 <h4>{data.title}</h4>

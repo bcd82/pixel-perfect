@@ -1,0 +1,42 @@
+.testimonials {
+  width: 100%;
+  height: 745px;
+  background: #004047;
+  justify-content: center;
+  position: relative;
+  .top-img {
+    position:absolute;
+    top:0;
+    left:0;
+    width:150px;
+    height:100px;
+}
+.bottom-img {
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:200px;
+  }
+
+  .content {
+    color: white;
+    margin-top: 150px;
+    align-items: center;
+    h2 {
+      font-size: rem(48px);
+      font-family: Livvic-Bold;
+      text-align: center;
+      max-width: 85%;
+      span {
+        color: #79c8c7;
+      }
+    }
+  
+    .testi-list {
+      margin-top: 45px;
+      gap: 25px;
+      flex-wrap: wrap;
+    
+    }
+  }
+}
